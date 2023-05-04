@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kobeep
-- 👀 I’m interested in DevOps and Hardwares.
+- 👀 I’m interested in DevOps, Clouds and Hardwares.
 
 
 <!---
