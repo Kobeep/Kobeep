@@ -20,6 +20,8 @@ constantly expanding my skillset in computer hardware and becoming familiar with
   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kubernetes.png"></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ansible.png"></a>
   <a href="https://kernel.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png"></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/terraform.png"></a>
 </p>
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeep&show_icons=true&theme=tokyonight) -->
