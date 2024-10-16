@@ -2,8 +2,7 @@
 
 ## Who Am I?
 
-Fueled by a passion for technology, I’m a student at Maritime University in Gdynia, 
-constantly expanding my skillset in computer hardware and becoming familiar with 
+Fueled by a passion for technology, I’m constantly expanding my skillset in computer hardware and becoming familiar with 
 ***DevOps methodology***.
 
   📫 How to reach me: 
