@@ -31,9 +31,9 @@
 
 ### 📊 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kobeep&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/kobeep)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeep&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/kobeep)
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeep&theme=tokyonight&hide_border=true&langs_count=6)
+</div>
 
 ### 🔥 GitHub Streak
 
