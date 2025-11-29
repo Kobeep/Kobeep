@@ -21,6 +21,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
 </p>
 
+---
+
 ### 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/jakub-pospieszny-085a632a0/" target="_blank">
@@ -29,15 +31,21 @@
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeep&show_icons=true&theme=tokyonight) -->
 
+---
+
 ### 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kobeep&theme=one-dark-pro&hide_border=true&card_width=850&card_height=240)](https://git.io/streak-stats)
+
+---
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kobeep&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
+
+---
 
 ### 📈 Contribution Graph
 
