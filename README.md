@@ -3,7 +3,7 @@
 <div align="center">
   <h3>Automating the world, one script at a time.</h3>
   <p>I'm a DevOps enthusiast with a simple philosophy: <strong>if a task needs to be done more than once, it deserves to be automated.</strong><br>My passion lies in creating robust scripts and tools that streamline workflows and empower development teams to focus on what they do best: building amazing things.</p>
-  <p>⚡ <strong>Fun fact:</strong> I believe there is no such thing as "too much automation".</p>
+  <p>⚡ <strong>Fun fact:</strong></p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8D22F7&multiline=true&width=435&lines=I+believe+there+is+no+such+thing+as+%22too+much+automation%22.;%22too+much+automation%22." alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -28,10 +28,6 @@
 </a>
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeep&show_icons=true&theme=tokyonight) -->
-
-### 📊 My GitHub Stats
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobeep&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 ### 🔥 GitHub Streak
 
