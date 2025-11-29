@@ -32,8 +32,8 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kobeep&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobeep&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kobeep&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobeep&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 </div>
 
 ### 🔥 GitHub Streak
@@ -55,9 +55,8 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Good%20To%20See%20You!&reversal=true&section=footer&animation=fadeIn" alt="Footer"/>
 </div>
-<br><br><br><br>
 
 <!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
 <!-- Thanks to :- ⭐️ From [Hasaber8](https://github.com/Hasaber8) -->
