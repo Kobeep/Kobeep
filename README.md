@@ -6,11 +6,19 @@
   <p>⚡ <strong>Fun fact:</strong></p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8D22F7&multiline=true&width=435&lines=I+believe+there+is+no+such+thing+as+%22too+much+automation%22.;%22too+much+automation%22." alt="Typing SVG" /></a>
 </div>
 
+### 📫 How to reach me
+
+<a href="https://www.linkedin.com/in/jakub-pospieszny-085a632a0/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=“margin-bottom: 5px;” />
+</a>
+
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeep&show_icons=true&theme=tokyonight) -->
+
 ---
 
 ### 🔧 My DevOps Toolkit
 
-<table>
+<table border="0">
 <tr>
 <td valign="top" width="50%">
 
@@ -46,31 +54,15 @@
 </tr>
 </table>
 
----
-
-### 📫 How to reach me
-
-<a href="https://www.linkedin.com/in/jakub-pospieszny-085a632a0/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=“margin-bottom: 5px;” />
-</a>
-
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeep&show_icons=true&theme=tokyonight) -->
-
----
-
 ### 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kobeep&theme=one-dark-pro&hide_border=true&card_width=850&card_height=240)](https://git.io/streak-stats)
-
----
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kobeep&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
-
----
 
 ### 📈 Contribution Graph
 
