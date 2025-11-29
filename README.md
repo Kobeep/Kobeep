@@ -31,11 +31,11 @@
 
 ### 📊 My GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kobeep&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobeep&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kobeep&theme=one-dark-pro&hide_border=true&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kobeep&theme=one-dark-pro&hide_border=true&card_width=850&card_height=240)](https://git.io/streak-stats)
 
 ### 🏆 GitHub Trophies
 
