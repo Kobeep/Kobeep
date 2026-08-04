@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/jakub-pospieszny-085a632a0/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=“margin-bottom: 5px;” />
 </a>
-
+📄 **[Download my CV (PDF)](https://github.com/Kobeep/CV/releases/download/latest/Jakub_Pospieszny_CV.pdf)**
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeep&show_icons=true&theme=tokyonight) -->
 
 ---
