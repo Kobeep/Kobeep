@@ -11,7 +11,12 @@
 <a href="https://www.linkedin.com/in/jakub-pospieszny-085a632a0/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=“margin-bottom: 5px;” />
 </a>
-📄 **[Download my CV (PDF)](https://github.com/Kobeep/CV/releases/download/latest/Jakub_Pospieszny_CV.pdf)**
+
+<p align="center">
+  <a href="https://github.com/Kobeep/TWOJE_REPO/releases/download/latest/Jakub_Pospieszny_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_CV-PDF-107C41?style=for-the-badge" alt="Download CV">
+  </a>
+</p>
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeep&show_icons=true&theme=tokyonight) -->
 
 ---
